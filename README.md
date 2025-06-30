@@ -31,7 +31,8 @@ The Total Revenue from Each Payment Method clearly indicates that "Card" is the 
 
 This sales performance dashboard is a powerful analytical tool that transcends simple data presentation. Through its carefully chosen visualizations and interactive capabilities, it provides a comprehensive and dynamic understanding of sales performance across various critical dimensions. By monitoring these visualizations, the stakeholders can gain insights into the efficiency and effectiveness of these core processes and identify potential bottlenecks or areas for optimization, like the Delivery Status chart which shows a significant portion of revenue in "Delivered" status (around 5,000,000) but also a notable amount in "Pending" (over 2,000,000), which warrants attention. 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/b556ee5c-ca1b-4903-ab3d-aa1167da928d)
+
 
 ## What I Learned
  Learned how to use Power Query to clean and transform messy raw data into a structured format ready for analysis.
